@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because it is almost as fast as the merge sort in best case scenario because it only needed to go through all the number onlyu once in pairs to know all are sorted.
+
+sort2 uses: Merge Sort
+
+How do you know?: because it executes the fastest for the largest random files
+
+sort3 uses: Selection Sort
+
+How do you know?: Because even for the best case scenario it took the longest of all 3 for running multiple times even for the best case scenario
